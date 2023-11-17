@@ -1,0 +1,5 @@
+Jupyter Notebook es un entorno basado en una interfaz web. 
+   Cuenta con celdas de Markdown y celdas de código.
+Se puede utilizar con una gran variedad de lenguajes de programación, pero destacan R y Python.   
+Y hay veces que hay que limpiar los datos que leemos.    
+
